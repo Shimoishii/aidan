@@ -1,0 +1,52 @@
+body {
+    color: white;
+    background: rgb(8, 6, 20);
+    text-align: left;
+    margin: 10px;
+    font-family: "Quicksand", sans-serif;
+}
+
+header {
+    border-bottom: solid 5px rgb(89, 115, 228);
+    padding: 20px;
+    font-size: 32px;
+    margin: 0px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+h1 {
+    font-size:400%;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+h2 {
+    font-size: 100%;
+    margin: 10px;
+}
+
+h3 {
+    font-size: 100%;
+    margin: 10px;
+}
+
+
+li {
+    font-size: 100%;
+    margin: 10px;
+}
+
+p{
+    font-size: 25px;
+    margin: 10px;
+}
+
+.itl {
+    font-style: italic;
+}
+
+.icon {
+    height: 25%;
+}
