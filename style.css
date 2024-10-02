@@ -9,7 +9,7 @@ body {
 header {
     background: rgb(32, 31, 34);
     border-bottom: solid 5px rgb(0, 0, 0);
-    padding: 20px;
+    padding: 0px;
     font-size: 32px;
     margin: 0px;
     display: flex;
@@ -44,10 +44,11 @@ p{
     margin: 10px;
 }
 
-.itl {
-    font-style: italic;
+img {
+    border: 20px;
+    height: 25%;
 }
 
-.icon {
-    height: 25%;
+.itl {
+    font-style: italic;
 }
