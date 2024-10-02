@@ -47,9 +47,14 @@ p{
     margin: 10px;
 }
 
-img {
+.img1 {
     border: 20px;
     height: 25%;
+}
+
+.img2 {
+    border: 20px;
+    height: 50%;
 }
 
 .itl {
